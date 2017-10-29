@@ -27,7 +27,7 @@ require.config({
     "aurelia-templating-binding": "node_modules/aurelia-templating-binding/dist/amd/aurelia-templating-binding",
 
     "text": "node_modules/text/text",
-    "requirejs-typescript": "lib/requirejs-typescript.min",
+    "requirejs-typescript": "https://mattduffield.github.io/aurelia-typescript-deploy/lib/requirejs-typescript.min",
     "typescript": "node_modules/typescript/lib/typescript"
   },
   packages: [
