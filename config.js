@@ -25,8 +25,6 @@ require.config({
     "aurelia-task-queue": "https://mattduffield.github.io/aurelia-typescript-deploy/node_modules/aurelia-task-queue/dist/amd/aurelia-task-queue",
     "aurelia-templating": "https://mattduffield.github.io/aurelia-typescript-deploy/node_modules/aurelia-templating/dist/amd/aurelia-templating",
     "aurelia-templating-binding": "https://mattduffield.github.io/aurelia-typescript-deploy/node_modules/aurelia-templating-binding/dist/amd/aurelia-templating-binding",
-
-    "fetch": "https://mattduffield.github.io/aurelia-typescript-deploy/node_modules/text/text",
     
     "text": "https://mattduffield.github.io/aurelia-typescript-deploy/node_modules/text/text",
     "requirejs-typescript": "https://mattduffield.github.io/aurelia-typescript-deploy/lib/requirejs-typescript.min",
